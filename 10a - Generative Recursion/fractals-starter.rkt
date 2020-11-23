@@ -75,5 +75,5 @@
                        (beside subq blkq subq)
                        (beside subq subq subq))))]))
 
-(place-image (sier-tri  490) (/ WIDTH 2) (/ HEIGHT 2) MTS)
-(place-image (sier-squa 490) (/ WIDTH 2) (/ HEIGHT 2) MTS)
+(place-image (sier-tri  490) (/ WIDTH 2) (/ HEIGHT 2) MTS) ; Renders a Sierpinski Triangle 
+(place-image (sier-squa 490) (/ WIDTH 2) (/ HEIGHT 2) MTS) ; Renders a Sierpinski Carpet
